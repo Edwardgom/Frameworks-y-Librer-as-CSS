@@ -5,8 +5,8 @@
 }
 @media only screen and (max-width: 600px){
 	#redes{
-	height: auto;
-	margin-top: 0px;
-    margin-bottom: 0px;
+	    height: auto;
+	    margin-top: 0px;
+        margin-bottom: 0px;
    }
 }
