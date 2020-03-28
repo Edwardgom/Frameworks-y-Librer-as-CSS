@@ -13,6 +13,16 @@
 	border-radius: 4px;
 	border: 1px solid #660000;
 	height: 25px;
+}
+#menup{
+	width: 100%;
+	padding: 0px;
+	display: inline-table;
+}
+#nav-mobile{
+	width: 100%;
+	margin: 0px;
+}
 
 @media only screen and (max-width: 600px){
 	#redes{
