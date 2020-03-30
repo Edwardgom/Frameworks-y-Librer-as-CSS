@@ -1,0 +1,40 @@
+#logo{
+	margin-top: 20px;
+}
+#redes{
+	height: auto;
+	margin-top: 130px;
+    margin-bottom: 0px;
+}
+#imgprimera{
+	margin-top: 20px;
+}
+#search{
+	border-radius: 4px;
+	border: 1px solid #660000;
+	height: 25px;
+}
+#menup{
+	width: 100%;
+	padding: 0px;
+	display: inline-table;
+}
+#nav-mobile{
+	width: 100%;
+	margin: 0px;
+}
+
+@media only screen and (max-width: 600px){
+	#redes{
+	    height: auto;
+	    margin-top: 0px;
+        margin-bottom: 0px;
+   }
+   li{
+   	width: 100%;
+   	text-align: center;
+   }
+   #logo{
+   	max-width: 200px;
+   }
+}
