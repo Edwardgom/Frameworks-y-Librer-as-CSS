@@ -7,11 +7,15 @@ body{
 	background-color: #006DD9;
 }
 #contenedor{
-	background-color: #99B3FF;
-	opacity: 0.5;
+	background-color: #F1F1F1;
+	opacity: 0.8;
 }
-#logo{
-	margin-top: 20px;
+#slogan{
+	text-align: right;
+}
+#titulo{
+	border-right: 2px solid #444444;
+	
 }
 #redes{
 	height: auto;
