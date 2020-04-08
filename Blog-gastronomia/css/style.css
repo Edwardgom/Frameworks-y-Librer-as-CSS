@@ -36,8 +36,12 @@ hr{
 	background-color: #999999;
 	max-width: 360px;
 }
-#imgprimera{
-	margin-top: 20px;
+#blog{
+	background-color: #D90000;
+	padding: 15px;
+	margin-left: 7px;
+	width: 90%;
+	max-width: 745px;
 }
 #search{
 	border-radius: 4px;
@@ -128,7 +132,7 @@ hr{
     color: #ffffff; 
 }
 a:hover{
-	color:#D90000;
+	color: #D90000;
 }
   .menu input {
     display: inline-block; 
@@ -140,9 +144,7 @@ a:hover{
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-align: center;
-            align-items: center; 
+            flex-direction: column; 
 }
     .menu.align-center li {
     display: -webkit-box;
@@ -162,6 +164,9 @@ a:hover{
 .imagen{
 	width: 100%;
 }
+#texto{
+	color: #ffffff;
+}
 @media only screen and (max-width: 600px){
 	#redes{
 	    height: auto;
@@ -175,4 +180,11 @@ a:hover{
    #logo{
    	max-width: 200px;
    }
+   #blog{
+	background-color: #D90000;
+	padding: 15px;
+	margin-left: 7px;
+	width: 96%;
+	max-width: 745px;
+}
 }
